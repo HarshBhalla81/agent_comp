@@ -242,4 +242,4 @@ if __name__ == "__main__":
     if args.games > 1:
         print(f"SUMMARY over {args.games} games: "
               f"Wins={wins}  Losses={losses}  Draws={draws}  "
-              f"WinRate={wins/args.games*100:.0f}%\n")
+              f"WinRate={wins/args.games*100:.0f}%\n")1
